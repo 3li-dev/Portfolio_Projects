@@ -1,0 +1,1 @@
+A simple model which predicts the price of a house based on different parameters such as income, the house’s age, number of rooms, and population density. The dataset was obtained from the California Housing dataset, which provides data on housing across the state of California. 
